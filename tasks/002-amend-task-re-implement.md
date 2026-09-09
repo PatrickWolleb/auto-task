@@ -1,7 +1,7 @@
 ---
 title: Amend a Task Mid-Flight and Re-Implement
 date: 2026-09-09
-status: in-dev
+status: done
 type: research
 ---
 
